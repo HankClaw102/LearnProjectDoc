@@ -10,6 +10,7 @@
 |------|------|------|
 | [Google AI Edge Gallery](./Google-AI-Edge-Gallery/) | Google 端侧 AI 移动应用示例 | [开始学习](./Google-AI-Edge-Gallery/) |
 | [OpenClaw](./openclaw/) | 多通道 AI 网关系统，支持 20+ 消息平台 | [开始学习](./openclaw/) |
+| [Hermes Agent vs OpenClaw](./hermes-vs-openclaw/) | 两大 AI Agent 框架深度源码级对比分析 | [开始阅读](./hermes-vs-openclaw/) |
 
 ---
 
